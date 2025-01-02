@@ -1,0 +1,1 @@
+shoot_sound = pygame.mixer.Sound("images/data.mp3")  # Звук стрельбы
